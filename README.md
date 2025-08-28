@@ -38,6 +38,6 @@ Impact of some categorical variables
 
 
 ## Contact
-Created by [@gocool2002] - feel free to contact me!
+Created by [@gokulgs2020] - feel free to contact me!
 
 
